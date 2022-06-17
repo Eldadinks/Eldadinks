@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eldadinks
-- 👀 I’m interested in Geno,ics and Bioinformatics
+- 👀 I’m interested in Genomics and Bioinformatics
 - 🌱 I’m currently learning Python for Bioinformatics, Bio-DataScience and Machine learning
 - 💞️ I’m looking to collaborate on Bio-Datascience
 - 📫 How to reach me merrcyogunlowo@gmail.com
